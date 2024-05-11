@@ -28,3 +28,4 @@
 /Users/manishkumar/Downloads/Practice/DIExamples/obj/Debug/net8.0/DIExamples.pdb
 /Users/manishkumar/Downloads/Practice/DIExamples/obj/Debug/net8.0/DIExamples.genruntimeconfig.cache
 /Users/manishkumar/Downloads/Practice/DIExamples/obj/Debug/net8.0/ref/DIExamples.dll
+/Users/manishkumar/Downloads/Practice/DIExamples/obj/Debug/net8.0/DIExamples.sourcelink.json

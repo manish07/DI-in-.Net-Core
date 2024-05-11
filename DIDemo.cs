@@ -1,13 +1,16 @@
 
-public interface ISingleton{
+public interface ISingleton
+{
     Guid Value();
 }
 
-public interface IScoped{
+public interface IScoped
+{
     Guid Value();
 }
 
-public interface ITransient{
+public interface ITransient
+{
     Guid Value();
 }
 
